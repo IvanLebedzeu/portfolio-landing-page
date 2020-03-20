@@ -9,7 +9,7 @@ body {
   font-family: sans-serif;
 }
  h1 {
-   color: goldenrod;
+   color: rgb(1, 1, 32);
    text-align: left;
    font-style: underline;
    text-align: center;
@@ -24,7 +24,7 @@ body {
 }
 
 .resp ol {
-  background-color: teal;
+  background-color: rgb(204, 226, 226);
 }
 
 
@@ -35,9 +35,9 @@ body {
 
 .boxModel {
   margin: 2px;
-  border: 2px solid green;
+  border: 1px solid rgb(140, 140, 214);
   padding: 4px;
-  background-color: wheat;
+  background-color: rgb(221, 232, 240);
 }
 
 .hobbies ol a {
@@ -49,17 +49,17 @@ body {
   margin: 1px;
   border: 1px salmon;
   padding: 2px;
-  background-color: rgb(214, 171, 91);
+  background-color: rgb(186, 225, 231);
 }
 
 .sidebar {
   width: 40%;
   float: left;
-  background-color: rgb(147, 226, 171);
+  /*background-color: rgb(147, 226, 171);*/
 }
 
 .sidebar2 {
   width: 40%;
   float: right;
-  background-color: rgb(205, 226, 147);
+  /*background-color: rgb(205, 226, 147);*/
 }
