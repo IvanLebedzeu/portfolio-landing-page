@@ -1,3 +1,35 @@
 img {
   border-radius: 50%;
 }
+body {
+  font-family: sans-serif;
+}
+ h1 {
+   color: goldenrod;
+   text-align: left;
+   font-style: underline;
+ }
+
+  h2 :first-of-type {
+  font-size: 30px;
+  text-shadow: greenyellow;
+  text-align: left;
+  background-color: hotpink;
+  font-style: inherit;
+  text-decoration: rgb(139, 31, 31);
+}
+
+.resp ol {
+  background-color: teal;
+}
+
+
+.hobbies ol {
+  font-style: italic;
+  color: goldenrod;
+}
+
+.hobbies ol a {
+  font-style: normal;
+  background-color: pink;
+}
