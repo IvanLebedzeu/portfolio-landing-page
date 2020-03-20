@@ -1,5 +1,8 @@
 img {
   border-radius: 50%;
+  float: left;
+  height: 150px;
+  width: 150px;
 }
 body {
   font-family: sans-serif;
@@ -29,7 +32,33 @@ body {
   color: goldenrod;
 }
 
+.boxModel {
+  margin: 2px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: wheat;
+}
+
 .hobbies ol a {
   font-style: normal;
   background-color: pink;
+}
+
+.boxModel2 {
+  margin: 1px;
+  border: 1px salmon;
+  padding: 2px;
+  background-color: rgb(214, 171, 91);
+}
+
+.sidebar {
+  width: 40%;
+  float: left;
+  background-color: rgb(147, 226, 171);
+}
+
+.sidebar2 {
+  width: 40%;
+  float: right;
+  background-color: rgb(205, 226, 147);
 }
