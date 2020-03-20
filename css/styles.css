@@ -4,6 +4,7 @@ img {
   height: 150px;
   width: 150px;
 }
+
 body {
   font-family: sans-serif;
 }
@@ -11,13 +12,13 @@ body {
    color: goldenrod;
    text-align: left;
    font-style: underline;
+   text-align: center;
  }
 
   h2 :first-of-type {
   font-size: 30px;
   text-shadow: greenyellow;
   text-align: left;
-  background-color: hotpink;
   font-style: inherit;
   text-decoration: rgb(139, 31, 31);
 }
