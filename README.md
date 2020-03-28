@@ -10,13 +10,12 @@ _This Web Page is my full portfolio and it includes the next sections: Projects,
 
 ## Setup/Installation Requirements
 
-* _Download file_
-* _Click 'Install' button_
-* _Choose the location where you want to install the App_
-* _Click 'Continue' button_
-* _Done!_
+* _Clone this repository._
+* _Navigate to index.html file_
+* _Right click and open in the browser of your choice_
+* _lternatively, open the webpage at https://ivanlebedzeu.github.io/portfolio-landing-page/_
 
-_Please, visit my portfolio WebSite! https://ivanlebedzeu.github.io/portfolio-landing-page/_
+
 
 ## Known Bugs
 
