@@ -8,14 +8,15 @@ img {
 body {
   font-family: sans-serif;
 }
- h1 {
-   color: rgb(1, 1, 32);
-   text-align: left;
-   font-style: underline;
-   text-align: center;
- }
 
-  h2 :first-of-type {
+h1 {
+  color: rgb(1, 1, 32);
+  text-align: left;
+  font-style: underline;
+  text-align: center;
+}
+
+h2 :first-of-type {
   font-size: 30px;
   text-shadow: greenyellow;
   text-align: left;
@@ -55,11 +56,9 @@ body {
 .sidebar {
   width: 40%;
   float: left;
-  /*background-color: rgb(147, 226, 171);*/
 }
 
 .sidebar2 {
   width: 40%;
   float: right;
-  /*background-color: rgb(205, 226, 147);*/
 }
